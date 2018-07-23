@@ -2,9 +2,9 @@
 
 ### Features
 - ExpressJS
-- MongoDB & Mongoose
-- Keycloak for user & role management
-- Admin panel, powered by react-admin
+- MongoDB(Mongoose)
+- Keycloak.
+- Admin panel .
 - Package.json (Rest of Dependencies)
 
 ## Instructions:
