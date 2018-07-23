@@ -4,7 +4,7 @@
 - ExpressJS
 - MongoDB(Mongoose)
 - Keycloak.
-- Admin panel .
+- React Panel .
 - Package.json (Rest of Dependencies)
 
 ## Instructions:
