@@ -9,7 +9,7 @@
 - Keycloak for user & role management
 - Admin panel, powered by react-admin
 
-## Instruction:
+## Instructions:
 #### Clone the repo
 
 #### Get the service up and running
