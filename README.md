@@ -2,12 +2,10 @@
 
 ### Features
 - ExpressJS
-- Pagination (Powered by [express-paginate](https://github.com/expressjs/express-paginate))
-- [helmet](https://github.com/helmetjs/helmet) ready (Middleware - Adds security headers)
-- [compression](https://github.com/expressjs/compression) ready (Middleware)
 - MongoDB & Mongoose
 - Keycloak for user & role management
 - Admin panel, powered by react-admin
+- Package.json (Rest of Dependencies)
 
 ## Instructions:
 #### Clone the repo
