@@ -44,12 +44,6 @@ Now we have to create the realms for test enviroment and dev enviroment
 
 ## Useful scripts
 
-#### Launch admin panel in development env
-Starts a react server for the react-admin client, with hot-reload included
-```
-npm run admin:dev
-```
-
 #### Builds the admin client
 This will be the build that will be served by the server on `/admin`
 ```
